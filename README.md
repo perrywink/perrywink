@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @perrywink. You call just call me Isaac. 
+- 👋 Hi, I’m @perrywink. You can just call me Isaac. 
 - 👀 I’m interested in good design (whether it be software or anything else), and how it can help others. Nothing is more gratifying than seeing oher use the tools I develop.
 - 🌱 I’m currently learning game development in Godot, React JS (which are amongst the many, many things I have in my bucket list)
