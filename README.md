@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @perrywink. You can just call me Isaac. 
-- 👀 I’m interested in good design (whether it be software or anything else), and how it can help others. Nothing is more gratifying than seeing oher use the tools I develop.
-- 🌱 I'm a ReactJS Sellout and an avid Unity developer who likes overusing singletons in C#, 3d modelling, sound design in FL and everything in between :D
+👋 Hi, I’m @perrywink. You can just call me Isaac. 
+🌱 I'm a ReactJS Sellout and an avid Unity developer who likes overusing singletons in C#, 3d modelling, sound design in FL and everything in between :D
