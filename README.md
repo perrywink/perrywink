@@ -1,1 +1,2 @@
-👋 Hi, Isaac here! I'm a ReactJS sellout who also enjoys making some stuff called "art" in both 2D and 3D (Blender) spaces.
+👋 Your friendly neighbourhood ReactJS sellout/software dev. 
+Yes, I go bouldering on Sundays. I also enjoy painting, experimenting with Blender, and aspire to achieve even half of Mateus Asato's talent on guitar 🫠
